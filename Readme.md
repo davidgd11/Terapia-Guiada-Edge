@@ -18,7 +18,7 @@ Software:
 - Código Esp32: Como o potenciômetro ele identifica qual o nível de oxigenação no corpo do paciente.
 
 
-#Como funciona:
+# Como funciona:
 
 - Potenciômetro: Irá identificar se a oxigenação do paciente está ok. 
 
@@ -45,4 +45,4 @@ Software:
 
 # Autores:
 
--David Guilherme Denunci e Victor Hugo Andrade
+- David Guilherme Denunci e Victor Hugo Andrade
