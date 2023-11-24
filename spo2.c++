@@ -26,7 +26,7 @@ void loop() {
     Serial.println("%");
 
     if (saturacaoOxigenio <= 92) {
-      Serial.print("Você não pode fumar!\n");      
+      Serial.print("Baixa oxigenação!\n");      
     }
 
     if (saturacaoOxigenio > 92){
